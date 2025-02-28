@@ -1,16 +1,11 @@
-## Hi there 👋
+```java
 
-<!--
-**Rameshkxz/Rameshkxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    class Introduction{
+        public static void main(String[] args){
+            System.out.println("Name: Ramesh Khanal");
+            System.out.println("Address: Birtamode 4, Jhapa");
+            System.out.println("Study: BIM, 3rd Semester");
+            System.out.println("Tech Stacks: Java, C, DSA");
+        }
+    }
+```
