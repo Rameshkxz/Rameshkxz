@@ -28,11 +28,11 @@ Always learning. Always improving.
 </p>
 
 <p>
-<strong>Backend / Full-Stack</strong><br>
-  <i>Python</i>
-  <i>Django </i> 
-  <i>Django REST Framework </i>
-  <i> APIs</i>
+<strong style ="font-size: 30px;">Backend / Full-Stack</strong><br>
+  <i>Python</i><br>
+  <i>Django </i> <br>
+  <i>Django REST Framework </i><br>
+  <i> APIs</i><br>
 </p>
 
 <p>
