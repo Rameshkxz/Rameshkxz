@@ -1,85 +1,78 @@
-<h1>Hi 👋, I'm Ramesh</h1>
+<h1 align="center">Hi 👋, I'm Ramesh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;BIM+5th+Semester+Student;Learning+Fullstack+%26+Django;DSA+in+Python" />
+</p>
+
+<p align="center">
+A passionate frontend developer from Nepal 🇳🇵<br>
+Currently studying <strong>BIM (5th Semester)</strong>.
+</p>
+
+<p align="center">
+I love building clean, responsive interfaces and turning ideas into real projects.
+I also work with Django for full-stack apps and practice DSA in Python to sharpen my logic.
+Always learning. Always improving.
+</p>
+
+---
+
+<h2>🛠 Tech I Work With</h2>
 
 <p>
-A passionate and dedicated developer from Nepal, currently pursuing a
-<strong>Bachelor of Information Management (BIM)</strong> in the <strong>5th Semester</strong>.
-I enjoy building clean, efficient, and user-friendly applications while continuously
-learning and improving my technical skills.
+<strong>Frontend</strong><br>
+HTML • CSS • JavaScript • Responsive Design
 </p>
 
 <p>
-My main interest lies in <strong>Full-Stack Development</strong>, where I work with both frontend
-and backend technologies to create complete, functional applications.
-I also have experience in <strong>mobile app development</strong> and actively practice
-<strong>Data Structures and Algorithms (DSA) using Python</strong> to strengthen my problem-solving skills.
+<strong>Backend / Full-Stack</strong><br>
+Python • Django • Django REST Framework • APIs
 </p>
 
 <p>
-I believe in consistent learning, writing clean and readable code, and building
-real-world projects that help me grow as a developer.
+<strong>Mobile</strong><br>
+Basic mobile app development & UI logic
 </p>
 
-<hr/>
-
-<h2>🛠️ Skills & Technologies</h2>
-
-<h3>💻 Frontend Development</h3>
-<ul>
-  <li>HTML5 – semantic and structured layouts</li>
-  <li>CSS3 – responsive design and modern UI</li>
-  <li>JavaScript – DOM manipulation and logic building</li>
-  <li>Basic UI/UX principles for better user experience</li>
-</ul>
-
-<h3>⚙️ Backend & Full-Stack Development</h3>
-<ul>
-  <li>Python – core programming and backend logic</li>
-  <li>Django – building secure and scalable web applications</li>
-  <li>Django REST Framework – creating RESTful APIs</li>
-  <li>Authentication, CRUD operations, and database integration</li>
-</ul>
-
-<h3>📱 Mobile App Development</h3>
-<ul>
-  <li>Understanding of mobile application structure</li>
-  <li>UI design and basic app logic</li>
-  <li>Cross-platform development fundamentals</li>
-</ul>
-
-<h3>🧠 Problem Solving</h3>
-<ul>
-  <li>Data Structures & Algorithms using Python</li>
-  <li>Logical thinking and step-by-step problem solving</li>
-  <li>Debugging and code optimization basics</li>
-</ul>
-
-<h3>🗄️ Databases</h3>
-<ul>
-  <li>SQLite – small to medium applications</li>
-  <li>MySQL – basic relational database concepts</li>
-</ul>
-
-<h3>🧰 Tools & Basics</h3>
-<ul>
-  <li>Git & GitHub – version control and collaboration</li>
-  <li>VS Code – daily development environment</li>
-  <li>Command line basics</li>
-  <li>Understanding of REST APIs</li>
-</ul>
-
-<hr/>
-
-<h2>🎯 Current Focus</h2>
-<ul>
-  <li>Improving full-stack development skills</li>
-  <li>Building real-world Django projects</li>
-  <li>Practicing DSA regularly in Python</li>
-  <li>Becoming a professional full-stack developer</li>
-</ul>
-
-<hr/>
-
-<h2>📫 Connect With Me</h2>
 <p>
-Open to learning, collaboration, and growth.
+<strong>Problem Solving</strong><br>
+Data Structures & Algorithms (Python)
+</p>
+
+<p>
+<strong>Tools & Basics</strong><br>
+Git • GitHub • VS Code • Databases (SQLite, MySQL basics)
+</p>
+
+---
+
+<h2>🚀 Languages & Tools</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,mysql&theme=dark" />
+</p>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+<h2>📫 Find Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
