@@ -21,12 +21,18 @@ Always learning. Always improving.
 
 <p>
 <strong>Frontend</strong><br>
-HTML • CSS • JavaScript • Responsive Design
+  <i>HTML </i><br>
+  <i>CSS</i><br>
+  <i>JavaScript</i><br>
+  <i> Responsive Design</i>
 </p>
 
 <p>
 <strong>Backend / Full-Stack</strong><br>
-Python • Django • Django REST Framework • APIs
+  <i>Python</i>
+  <i>Django </i> 
+  <i>Django REST Framework </i>
+  <i> APIs</i>
 </p>
 
 <p>
