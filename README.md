@@ -1,103 +1,58 @@
-Hey 👋 I’m Ramesh
+<h1>Hi 👋, I'm Ramesh!</h1>
 
-A motivated Full-Stack Developer 🚀 and BIM (5th Semester) student with a strong foundation in backend development, problem solving, and application design.
+<p>
+A passionate frontend developer from Nepal, currently pursuing a Bachelor of Information Management (BIM) in the 5th semester.
+I enjoy creating clean, responsive, and user-friendly interfaces while continuously improving my skills in modern web technologies.
+Alongside frontend development, I have experience working with full-stack applications using Django and enjoy solving problems
+through Data Structures and Algorithms in Python. I believe in consistent learning, writing clean code, and building real-world
+projects that add value.
+</p>
 
-I enjoy building practical, real-world software — from backend APIs to complete full-stack systems. I believe in consistent learning, clean code, and improving every single day.
+<h2>🚀 Languages and Tools I Use</h2>
 
-🧠 About Me
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42" height="42"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="42" height="42"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42"/>
+</a>
+</p>
 
-🎓 Bachelor of Information Management (BIM) – 5th Semester
+<h2>⚡️ Where to find me</h2>
 
-💻 Focused on Full-Stack Web Development
-
-🧩 Strong interest in Data Structures & Algorithms (Python)
-
-📱 Experience with Mobile App Development
-
-🔥 Self-driven learner with a long-term goal of becoming a professional full-stack developer
-
-⚙️ Technical Skills
-
-Programming Languages
-
-Python
-
-JavaScript
-
-HTML5, CSS3
-
-Backend Development
-
-Django
-
-Django REST Framework
-
-User Authentication & Authorization
-
-CRUD Applications
-
-RESTful APIs
-
-Frontend Development
-
-Responsive Web Design
-
-JavaScript DOM Manipulation
-
-Clean UI layouts
-
-Mobile App Development
-
-Cross-platform app fundamentals
-
-UI & application logic
-
-Problem Solving
-
-Data Structures & Algorithms using Python
-
-Strong debugging & logical thinking
-
-Databases
-
-SQLite
-
-MySQL (basic)
-
-Tools & Technologies
-
-Git & GitHub
-
-VS Code
-
-API Testing
-
-Basic UI/UX principles
-
-📂 Projects
-
-Full-stack web applications built with Django
-
-Responsive frontend websites
-
-Academic and personal practice projects
-
-Backend APIs with authentication & database integration
-
-➡️ Continuously building and improving projects
-
-🎯 Goals
-
-Become a skilled Full-Stack Developer
-
-Build scalable, real-world applications
-
-Contribute to open-source projects
-
-Secure a strong position in the tech industry
-
-📬 Let’s Connect
-
-GitHub: You’re already here 😄
-
-Open to collaboration, learning, and growth
+<p>
+<a href="https://www.linkedin.com/in/Ramesh Khanal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/Ramesh Khanal" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/ramesh_kxz" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
