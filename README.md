@@ -20,8 +20,9 @@ Learning daily and building step by step.
 <h2 align="center">💻 Tech Stack</h2>
 
 <!-- Frontend Section Table -->
-<h3>🎨 Frontend</h3>
+<h3 align="center">🎨 Frontend</h3>
 
+<div align="center">
 <table>
   <tr>
     <th align="left">Technology</th>
@@ -52,10 +53,12 @@ Learning daily and building step by step.
     <td>Quick layouts and responsive components</td>
   </tr>
 </table>
+</div>
 
 <!-- Backend Section Table -->
-<h3>⚙️ Backend / Full-Stack</h3>
+<h3 align="center">⚙️ Backend / Full-Stack</h3>
 
+<div align="center">
 <table>
   <tr>
     <th align="left">Technology</th>
@@ -78,10 +81,12 @@ Learning daily and building step by step.
     <td>User auth & database operations</td>
   </tr>
 </table>
+</div>
 
 <!-- Mobile Section Table -->
-<h3>📱 Mobile App Development</h3>
+<h3 align="center">📱 Mobile App Development</h3>
 
+<div align="center">
 <table>
   <tr>
     <th align="left">Technology</th>
@@ -96,10 +101,12 @@ Learning daily and building step by step.
     <td>App logic & UI functionality</td>
   </tr>
 </table>
+</div>
 
 <!-- Problem Solving -->
-<h3>🧠 Problem Solving</h3>
+<h3 align="center">🧠 Problem Solving</h3>
 
+<div align="center">
 <table>
   <tr>
     <th align="left">Focus</th>
@@ -110,10 +117,12 @@ Learning daily and building step by step.
     <td>Data Structures & Algorithms • Debugging • Logical thinking</td>
   </tr>
 </table>
+</div>
 
 <!-- Databases & Tools -->
-<h3>🗄️ Databases & Tools</h3>
+<h3 align="center">🗄️ Databases & Tools</h3>
 
+<div align="center">
 <table>
   <tr>
     <th align="left">Tool / DB</th>
@@ -140,6 +149,7 @@ Learning daily and building step by step.
     <td>Daily development environment</td>
   </tr>
 </table>
+</div>
 
 <hr/>
 
@@ -162,7 +172,7 @@ Learning daily and building step by step.
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ramesh-khanal-1278892b0/" target="_blank">
+<a href="https://www.linkedin.com/in/Ramesh-Khanal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/ramesh_kxz" target="_blank">
