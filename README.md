@@ -81,7 +81,7 @@ Learning daily and building step by step.
 </table>
 </div>
 
-<h3 align="center">📱 Mobile App Development</h3>
+<h3 align="center">📱 Mobile App Development- - Learning</h3>
 
 <div align="center">
 <table>
