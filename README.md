@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramesh</h1>
+ <h1 align="center">Hi 👋, I'm Ramesh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Nepal;BIM+5th+Semester+Student;Learning+Fullstack+with+Django;DSA+in+Python" />
